@@ -1,4 +1,4 @@
-# personal-use-templates
+# Personal-use-Templates
 personaluse-templates
 
 ## Thesis templates
